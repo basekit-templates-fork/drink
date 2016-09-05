@@ -1,64 +1,106 @@
 {
-	"name":"Drink",
-	"thumbnail":"drink.png",
-	"screenshot":"drink.png",
-	"templateType":"standard",
-	"pageTypes":["home"],
+    "name": "Drink",
+    "thumbnail": "drink.png",
+    "screenshot": "drink-screenshot.jpg",
+    "templateType": "standard",
+    "pageTypes": [
+        "home"
+    ],
     "tags": {
-    "en": ["minimal", "clean", "photography", "modern", "colorful", "colourful", "flexible", "open", "simple", "restaurant", "sans-serif", "bar", "coffee shop", "cafe"],
-    "es": ["minimalista", "limpio", "fotografico", "moderno", "colorido", "flexible", "abierto", "simple", "restaurante", "sans-serif", "bar", "cafetería"],
-    "br": ["minimalista", "limpo", "fotografia", "moderno", "colorido", "flexível", "aberto", "simples", "restaurante", "sans-serif", "bar", "café"]
+        "en": [
+            "minimal",
+            "clean",
+            "photography",
+            "modern",
+            "colorful",
+            "colourful",
+            "flexible",
+            "open",
+            "simple",
+            "restaurant",
+            "sans-serif",
+            "bar",
+            "coffee shop",
+            "cafe"
+        ],
+        "es": [
+            "minimalista",
+            "limpio",
+            "fotografico",
+            "moderno",
+            "colorido",
+            "flexible",
+            "abierto",
+            "simple",
+            "restaurante",
+            "sans-serif",
+            "bar",
+            "cafeter\u00eda"
+        ],
+        "br": [
+            "minimalista",
+            "limpo",
+            "fotografia",
+            "moderno",
+            "colorido",
+            "flex\u00edvel",
+            "aberto",
+            "simples",
+            "restaurante",
+            "sans-serif",
+            "bar",
+            "caf\u00e9"
+        ]
     },
-	"colorSwatches":
-    {
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#ffffff",
-            "color2":"#efefee",
-            "color3":"#F88F44",
-            "color4":"#313131",
-            "color5":"#313131",
-            "color6":"#313131",
-            "color7":"#F3EAE3"
+            "color1": "#ffffff",
+            "color2": "#efefee",
+            "color3": "#F88F44",
+            "color4": "#313131",
+            "color5": "#313131",
+            "color6": "#313131",
+            "color7": "#F3EAE3"
         },
         "Swatch 2": {
-            "color1":"#ffffff",
-            "color2":"#efefee",
-            "color3":"#C9B6A9",
-            "color4":"#777470",
-            "color5":"#313131",
-            "color6":"#313131",
-            "color7":"#d1cdc7"
+            "color1": "#ffffff",
+            "color2": "#efefee",
+            "color3": "#C9B6A9",
+            "color4": "#777470",
+            "color5": "#313131",
+            "color6": "#313131",
+            "color7": "#d1cdc7"
         },
         "Swatch 3": {
-            "color1":"#ffffff",
-            "color2":"#efefee",
-            "color3":"#B6D8D4",
-            "color4":"#777470",
-            "color5":"#313131",
-            "color6":"#313131",
-            "color7":"#d1cdc7"
+            "color1": "#ffffff",
+            "color2": "#efefee",
+            "color3": "#B6D8D4",
+            "color4": "#777470",
+            "color5": "#313131",
+            "color6": "#313131",
+            "color7": "#d1cdc7"
         },
         "Swatch 4": {
-            "color1":"#ffffff",
-            "color2":"#efefee",
-            "color3":"#E0C3C3",
-            "color4":"#777470",
-            "color5":"#313131",
-            "color6":"#313131",
-            "color7":"#d1cdc7"
+            "color1": "#ffffff",
+            "color2": "#efefee",
+            "color3": "#E0C3C3",
+            "color4": "#777470",
+            "color5": "#313131",
+            "color6": "#313131",
+            "color7": "#d1cdc7"
         },
         "Swatch 5": {
-            "color1":"#ffffff",
-            "color2":"#efefee",
-            "color3":"#CBC1CE",
-            "color4":"#777470",
-            "color5":"#313131",
-            "color6":"#313131",
-            "color7":"#d1cdc7"
+            "color1": "#ffffff",
+            "color2": "#efefee",
+            "color3": "#CBC1CE",
+            "color4": "#777470",
+            "color5": "#313131",
+            "color6": "#313131",
+            "color7": "#d1cdc7"
         }
     },
     "fontSwatch": {
-       "title": "Oswald",
+        "title": "Oswald",
         "font1": {
             "font-family": "\"Abril Fatface\", \"Palatino Linotype\", serif",
             "font-size": "30px",
